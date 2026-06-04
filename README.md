@@ -38,9 +38,11 @@ Setup Instructions:
 Note: A minimum of 16GB RAM is recommended due to the scale of the dataset.
 
 Data Preprocessing
+
 *Pre-launch filtering: Removed rows before each product's first recorded price to eliminate pre-launch noise
 
 *Missing prices: Forward and backward filled within each item-store group
+
 *Price inconsistencies: Week-over-week swings exceeding 50% capped to correct likely data entry errors
 
 *Sparse items: Item-store combinations selling on fewer than 20% of available days removed before modeling
