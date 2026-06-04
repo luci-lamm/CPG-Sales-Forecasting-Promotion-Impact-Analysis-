@@ -1,4 +1,4 @@
-#CPG Sales Forecasting & Promotion Impact Analysis
+CPG Sales Forecasting & Promotion Impact Analysis
 
 Overview
 This project explores CPG retail sales data to help improve buying predictions at the store level — specifically to prevent stockouts, reduce shrink, and help category managers buy product in a way that actually reflects how consumers shop rather than relying on gut instinct or outdated ordering patterns. Using the M5 Forecasting Competition dataset from Walmart, six machine learning models were built and evaluated to forecast daily product-level demand across 3,049 item-store combinations spanning 10 stores in California, Texas, and Wisconsin.
